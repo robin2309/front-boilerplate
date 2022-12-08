@@ -30,7 +30,7 @@
     "babel-polyfill": "^6.26.0",
     "cookie-parser": "^1.4.5",
     "css-loader": "^3.5.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "ignore-loader": "^0.1.2",
     "less": "^3.11.1",
     "less-loader": "^5.0.0",
